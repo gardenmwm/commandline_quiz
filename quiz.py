@@ -1,3 +1,4 @@
+from cgi import test
 import random as r
 import csv
 import os
@@ -70,5 +71,4 @@ except ValueError:
     exit()
 score = askquestions(quiz)
 printresultes(score)
-
 
