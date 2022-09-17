@@ -2,6 +2,7 @@ from cgi import test
 import random as r
 import csv
 import os
+import datetime
 
 def loadquiz(csvfile):
     with open(csvfile) as f:
@@ -45,6 +46,7 @@ def printresultes(score):
 
 def getQuiz(invalid=False):
     quizefiles = [f for f in os.listdir('.') if os.path.isfile(f) and f.endswith('.csv')]
+    quizefiles.remove('history.csv')
     os.system('cls') if os.name == 'nt' else os.system('clear') # clear screen
     if invalid:
         print('Invalid quiz file')
@@ -61,6 +63,12 @@ def getNumQuestions():
     numquestions = int(input('How many questions would you like to answer? '))
     return numquestions
 
+def saveHistory(quiz, score, numquestions):
+    with open('history.csv', 'a') as f:
+        writer = csv.writer(f)
+        writer.writerow([datetime.datetime.now().strftime('%d%m%Y %H:%M:%S'), quiz, str(score[0]) + '/' + str(numquestions)])
+
+
 quizfile=getQuiz()
 numquestions=getNumQuestions()
 questions = loadquiz(quizfile)
@@ -71,4 +79,4 @@ except ValueError:
     exit()
 score = askquestions(quiz)
 printresultes(score)
-
+saveHistory(quizfile, score, numquestions)
