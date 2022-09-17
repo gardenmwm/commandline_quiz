@@ -15,10 +15,12 @@ def selectquestions(quiz, num):
 
 def askquestions(questions, immediateanswer=False):
     score = 0
+    i = 0
     wrongequestions=[]
     for q in questions:
+        i += 1
         os.system('cls') if os.name == 'nt' else os.system('clear') # clear screen
-        print(q['question'])
+        print(str(i) +'. '+ q['question'])
         print('A: ' + q['A'])
         print('B: ' + q['B'])
         print('C: ' + q['C'])
