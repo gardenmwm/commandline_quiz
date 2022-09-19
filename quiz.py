@@ -5,7 +5,7 @@ import os
 import datetime
 
 def loadquiz(csvfile):
-    with open(csvfile) as f:
+    with open(csvfile, encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         quiz = list(reader)
     return quiz
@@ -28,8 +28,12 @@ def askquestions(questions, immediateanswer=False):
         answer = input('Answer: ')
         if answer.upper() == q['answer'].upper():
             score += 1
-        else:
+        elif answer.upper() in ['A', 'B', 'C', 'D']:
             wrongequestions.append({'question':q['question'], 'wronganswer':q[answer.upper()], 'correctanswer':q[q['answer'].upper()]})
+            if immediateanswer:
+                print('The correct answer is ' + q[(q['answer'].upper())])
+        else:
+            wrongequestions.append({'question':q['question'], 'wronganswer':'Invalid answer', 'correctanswer':q[q['answer'].upper()]})
             if immediateanswer:
                 print('The correct answer is ' + q[(q['answer'].upper())])
     return (score, wrongequestions)
@@ -68,7 +72,7 @@ def getNumQuestions():
 def saveHistory(quiz, score, numquestions):
     with open('history.csv', 'a') as f:
         writer = csv.writer(f)
-        writer.writerow([datetime.datetime.now().strftime('%d%m%Y %H:%M:%S'), quiz, str(score[0]) + '/' + str(numquestions)])
+        writer.writerow([datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), quiz, str(score[0]) + '/' + str(numquestions)])
 
 
 quizfile=getQuiz()

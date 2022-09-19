@@ -1,0 +1,129 @@
+Question: Which is included in the purpose of the 'change enablement' practice?
+         Answered: Make new and changed services available for use
+         Correct: Ensure that risks have been properly assessed
+Question: Which practice involves the management of vulnerabilities that were not identified before the service went live?
+         Answered: Service level management
+         Correct: Problem management
+Question: Which activity is part of the 'continual improvement' practice?
+         Answered: Authorizing changes to implement improvements
+         Correct: Making business cases for improvement action
+Question: Which statement about managing incidents is CORRECT?
+         Answered: The 'incident management' practice should use a single process regardless of the impact of the incident
+         Correct: Low impact incidents should be resolved efficiently so the resource required is reduced
+Question: What varies in size and complexity, and uses functions to achieve its objectives?
+         Answered: A practice
+         Correct: An organization
+Question: Which practice makes new services available for use?
+         Answered: Change enablement
+         Correct: Release management
+Question: What aspect of 'service level management' asks service consumers what their work involves and how technology helps them?
+         Answered: Customer feedback
+         Correct: Customer engagement
+Question: What describes how components and activities work together to facilitate value creation?
+         Answered: A service relationship
+         Correct: The ITIL service value system
+Question: Which will help solve incidents more quickly?
+         Answered: Collaboration between teams
+         Correct: Detailed procedural steps for incident investigation
+
+Question: Which ITIL concept describes the service value chain? 
+         Answered: Four dimensions of service management
+         Correct: Service value system
+Question: How does 'service request management' contribute to the 'improve' value chain activity? 
+         Answered: It collects user-specific requirements, sets expectations, and provides status updates 
+         Correct: It analyzes data to identify opportunities to provide new service request options 
+Question: Which guiding principle is most affected by the customer experience (CX)? 
+         Answered: Progress iteratively with feedback
+         Correct: Focus on value
+Question: What is NOT a phase in problem management? 
+         Answered: Error control 
+         Correct: Problem classification
+Question: How does 'service level management' contribute to the 'plan' value chain activity? 
+         Answered: Collects and processes feedback from customers and users 
+         Correct: Provides information about the actual service performance and trends 
+Question: Identify the missing word(s) in the following sentence. Utility is the _____ offered by a product or service to meet a particular need.
+         Answered: Assurance
+         Correct: Functionalize
+
+Question: Which practice has a purpose that includes helping the organization to maximize value, control costs and manage risks?  
+         Answered: Invalid answer
+         Correct: IT asset management 
+Question: Which dimension of service management considers governance, management, and communication?  
+         Answered: Invalid answer
+         Correct: Organizations and people 
+Question: Which statement about known errors and problems is CORRECT?  
+         Answered: Invalid answer
+         Correct: Known error is the status assigned to a problem after it has been analysed 
+Question: Which guiding principle emphasizes the need to understand the flow of work in progress, identify bottlenecks, and uncover waste?  
+         Answered: Invalid answer
+         Correct: Collaborate and promote visibility 
+Question: Identify the missing word in the following sentence.   A known error is a problem that has been [?] and has not been resolved. 
+         Answered: Invalid answer
+         Correct: analyzed 
+Question: Which value chain activity communicates the current status of all four dimensions of service management?  
+         Answered: Invalid answer
+         Correct: Plan      
+Question: Identify the missing words in the following sentence.   The purpose of the [?] is to ensure that the organization continually co-creates value with all stakeholders in line with the organization's objectives.  
+         Answered: Invalid answer
+         Correct: service value system 
+Question: What considerations influence the supplier strategy of an organization?  
+         Answered: Invalid answer
+         Correct: Corporate culture of the organization 
+
+
+Question: What leads to poor decision-making, which in turn impacts the organization’s ability to improve internal capabilities?  
+         Answered: Invalid answer
+         Correct: Insufficient visibility of work  
+Question: Problems are prioritized for analysis based on the?  
+         Answered: Invalid answer
+         Correct: Time needed to fix  
+Question: Workarounds are documented in?  
+         Answered: Invalid answer
+         Correct: Problem records
+Question: What in the service value chain ensures a shared understanding of the vision, current status, and improvement direction for all four dimensions and all products and services across the organization?  
+         Answered: Invalid answer
+         Correct: Plan  
+Question: What are two key components of the ITIL framework?  
+         Answered: Invalid answer
+         Correct: Service value system and service desk  
+Question: What is it called when tools will poll key CIs, looking at their status to generate alerts when an exception condition is identified?  
+         Answered: Invalid answer
+         Correct: Active monitoring  
+Question: What is it called when the CI itself generates the operational alerts?  
+         Answered: Invalid answer
+         Correct: Passive monitoring  
+Question: Which practice focuses on reducing the likelihood of incidents?  
+         Answered: Invalid answer
+         Correct: Problem management  
+Question: IT asset management maintains information about the assets, their costs, and?  
+         Answered: Invalid answer
+         Correct: Related contracts  
+Question: What is a set of specialized organizational capabilities for enabling value for customers in the form of services?  
+         Answered: Invalid answer
+         Correct: Service management
+Question: What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human intervention?  
+         Answered: Invalid answer
+         Correct: Accountable for policies  
+Question: Who authorizes the budget for service consumption?  
+         Answered: Invalid answer
+         Correct: Sponsor
+Question: The IT asset register is often combined (or federated) with the information stored in a?  
+         Answered: Invalid answer
+         Correct: Configuration management system (CMS)  
+Question: Almost all services today are considered to be:  
+         Answered: Invalid answer
+         Correct: IT-enabled  
+Question: What is a feedback loop?  
+         Answered: Invalid answer
+         Correct: An output of one activity is an input to another activity  
+Question: Problem control activities include problem analysis, and documenting workarounds and?  
+         Answered: Invalid answer
+         Correct: Error control  
+Question: All activities conducted by the organization should link back, directly or indirectly to?  
+         Answered: Invalid answer
+         Correct: Processes  
+Question: How many core components does the service value system (SVS) contain?  
+         Answered: Invalid answer
+         Correct: 5
+
+         
