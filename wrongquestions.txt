@@ -126,4 +126,39 @@ Question: How many core components does the service value system (SVS) contain?
          Answered: Invalid answer
          Correct: 5
 
-         
+Question: What is an example of an action a service request management employee would undertake as part of the 'design and transition' activity? 
+         Answered:  Collecting user-specific requirements, setting expectations, and providing status updates 
+         Correct:  Initiating standard changes to fulfill service requests 
+Question: How does 'service level management' contribute to the 'improve' value chain activity? 
+         Answered:  Provides information about the actual service performance and trends 
+         Correct:  Uses feedback from users about the service and requirements from customers to make the service better 
+Question: You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue? 
+         Answered: Problem 
+         Correct: Incident
+Question: You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as? 
+         Answered: Incident
+         Correct: Problem
+Question: What is the purpose of the 'relationship management' practice? 
+         Answered: Ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services 
+         Correct: Establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels 
+Question: How does 'service request management' contribute to the 'deliver and support' value chain activity? 
+         Answered:  By initiating standard changes to fulfill service requests 
+         Correct:  It ensures that users continue to be productive when they need assistance from the service provider 
+Question: You are working as a service desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur? 
+         Answered: Improve
+         Correct: Engage
+Question: What is the definition of an IT asset? 
+         Answered: Any component that needs to be managed in order to deliver an IT service 
+         Correct: Any valuable component that can contribute to the delivery of an IT product or service 
+Question: Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the continual improvement model are you currently working on?
+         Answered:  Where do we want to be 
+         Correct:  How do we get there 
+Question: Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students? 
+         Answered:  Service consumption 
+         Correct: Service relationship management
+Question: What is usually included as part of 'incident management'? 
+         Answered:  Detailed procedures for the diagnosis of incidents 
+         Correct:  Scripts for collecting initial information about incidents 
+Question: What is the definition of utility? 
+         Answered: The assurance that a product or service will meet agreed requirements 
+         Correct: The functionality offered by a product or service to meet a particular need         

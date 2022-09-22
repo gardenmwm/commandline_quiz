@@ -1,0 +1,41 @@
+ Which is included in the purpose of the 'change enablement' practice?	 Ensure that risks have been properly assessed
+ Which practice involves the management of vulnerabilities that were not identified before the service went live?	 Problem management
+ Which activity is part of the 'continual improvement' practice?	 Making business cases for improvement action
+ Which statement about managing incidents is CORRECT?	 Low impact incidents should be resolved efficiently so the resource required is reduced
+ What varies in size and complexity, and uses functions to achieve its objectives?	 An organization
+ Which practice makes new services available for use?	 Release management
+ What aspect of 'service level management' asks service consumers what their work involves and how technology helps them?	 Customer engagement
+ What describes how components and activities work together to facilitate value creation?	 The ITIL service value system
+ Which will help solve incidents more quickly?	 Detailed procedural steps for incident investigation
+ Which ITIL concept describes the service value chain? 	 Service value system
+ How does 'service request management' contribute to the 'improve' value chain activity? 	 It analyzes data to identify opportunities to provide new service request options 
+ Which guiding principle is most affected by the customer experience (CX)? 	 Focus on value
+ What is NOT a phase in problem management? 	 Problem classification
+ How does 'service level management' contribute to the 'plan' value chain activity? 	 Provides information about the actual service performance and trends 
+ Identify the missing word(s) in the following sentence. Utility is the _____ offered by a product or service to meet a particular need.	 Functionalize
+ Which practice has a purpose that includes helping the organization to maximize value, control costs and manage risks?  	 IT asset management 
+ Which dimension of service management considers governance, management, and communication?  	 Organizations and people 
+ Which statement about known errors and problems is CORRECT?  	 Known error is the status assigned to a problem after it has been analysed 
+ Which guiding principle emphasizes the need to understand the flow of work in progress, identify bottlenecks, and uncover waste?  	 Collaborate and promote visibility 
+ Identify the missing word in the following sentence.   A known error is a problem that has been [?] and has not been resolved. 	 analyzed 
+ Which value chain activity communicates the current status of all four dimensions of service management?  	 Plan      
+ Identify the missing words in the following sentence.   The purpose of the [?] is to ensure that the organization continually co-creates value with all stakeholders in line with the organization's objectives.  	 service value system 
+ What considerations influence the supplier strategy of an organization?  	 Corporate culture of the organization 
+ What leads to poor decision-making, which in turn impacts the organization’s ability to improve internal capabilities?  	 Insufficient visibility of work  
+ Problems are prioritized for analysis based on the?  	 Time needed to fix  
+ Workarounds are documented in?  	 Problem records
+ What in the service value chain ensures a shared understanding of the vision, current status, and improvement direction for all four dimensions and all products and services across the organization?  	 Plan  
+ What are two key components of the ITIL framework?  	 Service value system and service desk  
+ What is it called when tools will poll key CIs, looking at their status to generate alerts when an exception condition is identified?  	 Active monitoring  
+ What is it called when the CI itself generates the operational alerts?  	 Passive monitoring  
+ Which practice focuses on reducing the likelihood of incidents?  	 Problem management  
+ IT asset management maintains information about the assets, their costs, and?  	 Related contracts  
+ What is a set of specialized organizational capabilities for enabling value for customers in the form of services?  	 Service management
+ What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human intervention?  	 Accountable for policies  
+ Who authorizes the budget for service consumption?  	 Sponsor
+ The IT asset register is often combined (or federated) with the information stored in a?  	 Configuration management system (CMS)  
+ Almost all services today are considered to be:  	 IT-enabled  
+ What is a feedback loop?  	 An output of one activity is an input to another activity  
+ Problem control activities include problem analysis, and documenting workarounds and?  	 Error control  
+ All activities conducted by the organization should link back, directly or indirectly to?  	 Processes  
+ How many core components does the service value system (SVS) contain?  	 5
