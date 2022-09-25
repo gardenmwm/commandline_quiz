@@ -1,0 +1,41 @@
+﻿question,A,B,C,D,answer
+What is an arrangement of configuration items (CIs) or other resources that work together to deliver a product or service?,Configuration  ,Formation  ,CMS  ,CMDB,A
+"What is a measure of whether the objectives of a practice, service or activity have been achieved?  ",Effectiveness  ,Efficiency  ,Cost Saving  ,Objectives definition,A
+What is the maximum acceptable period of time following a service disruption that can elapse before the lack of business functionality severely impacts the organization?,RPO  ,RTO  ,BIA  ,Disaster recovery plan,B
+Which practice is done to ensure that the availability and performance of a service are maintained at sufficient levels in case of a disaster?  ,Disaster recovery service  ,Business continuity management  ,Service continuity management  ,Continuity management,B
+What practice is done to capture demand for incident resolution and service requests  ,Help Desk management  ,Service Desk  ,IT Management,Incident management,C
+"What is a measure of whether the right amount of resources have been used by a practice, service, or activity?  ",Effectiveness  ,Efficiency  ,Cost Saving  ,Objectives,B
+What is a flaw or vulnerability that may cause incidents?  ,Hole  ,Incorrect application usage  ,Break  ,Error,D
+What is the policy that governs an organization’s approach to information security management?  ,Security Policy  ,Information security policy  ,Organization security policy  ,Security management policy,B
+"All of the hardware, software, networks, and facilities that are required to develop, test, deliver, monitor, manage, and support IT services are called?  ",IT Components  ,IT Equipment  ,IT Assets  I,T infrastructure,D
+What is an important metric used to evaluate the success in meeting an objective?,Key metric indicator  ,Performance indicator  ,Key performance indicator  ,Key achievement indicator,C
+What is an approach that focuses on improving workflows by maximizing value through the elimination of waste?,Waterfall  ,Project Management  ,Lean  ,Spiral,C
+"What is known as the full set of stages, transitions, and associated statuses in the life of a service, product, practice, or other entity?",Service cycle  ,Lifecycle  ,Service circle  ,Circle,B
+What is known as the ease with which a service or other entity can be repaired or modified?,Maintainability  ,Changeability  ,Configuration  ,Setting  ,A
+"What is a product with just enough features to satisfy early customers, and to provide feedback for future product development?",Minimum usable product  ,Minimum viable product  ,Lease viable product  ,Lease usable product,B
+"What is known as the routine running and management of an activity, product, service, or other configuration item?",Organization task  ,Organization calendar  ,Continuous activities  ,Operation,D
+"What is known as the ability of an organization to anticipate, prepare for, respond to, and adapt to unplanned external influences?",Organizational plans  ,Organizational resilience  ,Organizational wiliness  ,Organizational plans,B
+"What is a set of tools, data, and information that is used to support service configuration management?",Configuration management system  ,IT System management  ,Server management system  ,CI management system,A
+What is known as a test implementation of a service with a limited scope in a live environment?,Test run  ,Demo  ,Prototype  ,Pilot,A
+What is a cooperation between a service provider and service consumer?,Service provision  ,Service usage  ,Service relationship  ,Service management,C
+Which practice is done to ensure that the organization’s suppliers and their performances are managed appropriately to support the seamless provision of quality products and services?,Vendor management  ,Supplier management  ,Outsource management,Relationship management,B
+What is the name of the type of relationship between an organization and its supplier where external suppliers provide products and services that were previously provided internally?,Insourcing  ,Outsourcing  ,Single Source  ,Multi-Sourcing,B
+"Which practice is done to maximize the number of successful service and product changes by ensuring that risks have been properly assessed, authorizing changes to proceed, and managing the change schedule?",Adjustment Control  ,Service change management  ,Service control  ,Change enablement,D
+"What is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on services?",Service modification  ,Service request  ,Service adjustment  ,Service Change,D
+_______________ practice may also be involved in positioning components to other environments for testing or stage in.,Change enablement  ,Incident management  ,Service desks  ,Deployment management,D
+What is a change that must be implemented as soon as possible?,Non-standard change  ,Emergency change  ,Quick change  ,Fast change,B
+What is an unplanned interruption to a service or reduction in the quality of a service?,Change  ,Problem  ,Incident  ,Error,D
+Every incident should be?,Reported to management  ,Escalated to higher support  ,Analyze for problems  ,Be logged and managed to ensure that it is resolved in a time that meets the expectations of the customer and user.,D
+What practice is done to plan and manage the full lifecycle of all IT assets?,IT Asset control  ,IT Asset System  ,IT Asset management  ,Asset management,C
+What is any financially valuable component that can contribute to the delivery of an IT product or service?,IT Asset  ,Technology  ,Service  ,Software,A
+What step in the ITIL continual improvement model provides context for all subsequent decisions and links individual actions to the organization’s vision for the future?,What is the vision?,Where do we want to be?  ,How to measure the progress?  ,Take action?,A
+"After you have determined where are we now, what should you do next?",Determined where do we want to be  ,Determined how to get there  ,Determined how to keep it going  ,Determined how to take action.,A
+In what step would you setup KPI’s,What is the vision?  ,Where do we want to be?  ,How to measure the progress?  ,Take action?,B
+What management practice is done for planning and implementing improvements?,Continual improvement  ,Information security management  ,Relationship management  ,Supplier management,A
+"To track and manage improvement ideas from identification through to final action, organizations use a database or structured document called a?",Continual improvement list  ,Continual improvement document  ,Continual improvement spreadsheet  ,Continual improvement register,D
+Which practice is done to protect the information needed by the organization to conduct its business?,Security management  ,Information security management  ,Asset protection management  ,Information management,B
+Which practice is done to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels?,Vendor management  ,Supplier management  ,Relationship management  ,Customer management,C
+"Where should information about the assets, their costs, and related contracts be stored?",IT asset list,IT asset database, IT asset register  ,IT asset catalog,C
+What is any change of state that has significance for the management of a service or other configuration item (CI) called?,Problem,Incident  ,Action,Event,D
+"What is it called when New or changed software is made available in a controlled repository, and users download the software to client devices when they  choose?",Phased deployment  ,Continuous delivery  ,Big bang deployment  ,Pull deployment,D
+What practice allows an organization to meet regulatory and contractual requirements concerning IT assets?,IT asset management,Deployment management  ,Incident management  ,Relationship management,A

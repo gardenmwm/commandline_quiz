@@ -1,0 +1,41 @@
+﻿question,A,B,C,D,answer
+What is the purpose of the SVS?,To ensure the organization manages it resources correctly,To ensure that the organization continually co-creates value with all stakeholders through the use and management of products and services,To ensure it meets customer’s needs,To create value for itself,B
+"What would knowledge bases, inventory systems, and communication systems be considered on the four dimensions model?",Information and technology,Value streams and processes,Partners and suppliers,People and organization,A
+What are some of the challenges of information management?,Blockchain and artificial intelligence,Cognitive computing,Security and compliance,Databases,C
+What is a question an organization should ask when working in information and technology?,How much does the technology cost?,Does the technology introduce new risk or constraints to the organization?,How will the information and technology sell?,What are the customer’s technological needs?,B
+What can have a significant impact on the technology a company chooses?,Time needed,Culture,Risk,Scope,B
+What can be defined as a model for enabling on-demand network access to a shared pool of configurable computing resources that can be rapidly provided with minimal management effort or provider interactions?,Cloud computing,On-demand computing,External computing,Outsource computing,A
+What dimension encompasses an organization relationships with other organizations to provide services?,Information and technology,Partners and Vendors,Partners and suppliers,Suppliers and Vendors,C
+What are some factors that influences an organization strategy when using suppliers? 1)Strategic Focus 2)Corporate Culture 3)Cost Concerns  4)Internal technology usage,1 and 2,1 and 3,"1, 2, and 3",All of the above,C
+Which dimension is concerned with how the various parts of the organization work in an integrated and coordinated way to enable value creation through products and services?,Information and technology,Value streams and processes,Partners and suppliers,People and organization,B
+What does the value streams and processes dimension focus on?,What activities the organization undertakes and how they are organized,What processes the organization uses to manage technology,What activities are used to manage suppliers,What activities are used to create services,A
+Which of the following are steps in the ITIL continual improvement model? 1)What is the vision? 2)Where do we want to be? 3)How to measure the progress? 4)Take action?,1 and 2 only,1 and 3 only,"1, 2 and 4 only",All of the above,C
+What is defined as a set of activities that transform inputs to outputs?,Service,Process,Procedure,Activity,B
+Which of the following is a ITIL guiding principle?,Focus on customer needs,Focus on cost,Focus on Value,Focus on risk,C
+What does the S in the PESTLE framework mean?,Service,Sector,Set,Social,D
+What describes how all the components and activities of the organization work together as a system to enable value creation?,Service value system (SVS),Service variations system (SVS),Service verification system (SVS),Service system (SS),A
+Which of the following are components of the SVS? 1)Guiding principles 2)Governance 3)Service value Chain 4)Practices,1 and 2 only,2 only,"1, 2, and 3",All of the above,D
+What is one of the biggest challenges an organization can face when trying to work effectively and efficiently with a shared vision?,Organizational silos,Organizational risk,Organizational culture,Organizational Cost,A
+"Which practice is to reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors?",Event management,Incident management,Problem management,Event and problem management,C
+What represents options or possibilities to add value for stakeholders or otherwise improve the organization?,Opportunity,Demand,Customer,Service,A
+"What is a recommendation that guides an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure?",Guiding Service,Guiding principle,Service principle,Manage principle,B
+"What should you do if a process, service, action or metric fails to provide value or produce a useful outcome?",Fix it,Eliminate it,Redo it,Improve it,B
+"What method when applied to software development, focus on the delivery of incremental changes to software products while responding to the changing (or evolving) needs of users?",Waterfall method,Change method,Incremental method,Agile method,D
+What is usually detailed in a process?,Services,Events,Procedures,Actions,C
+What method emphasizes close collaboration between the roles of software development and technical operations?,Agile Method,Change Method,DevOps Method,Waterfall method,C
+"What is the service value chain activity is done to ensure that products and services continually meet stakeholder expectations for quality, costs, and time to market?",Engage,Design,Plan,Design and transition,D
+The ITIL continual improvement model has ______ steps?,4,5,6,7,D
+What can be defined as a series of steps an organization undertakes to create and deliver products and services to consumers?,Value maps,Process maps,Process stream,Value stream,D
+What event do not require action at the time they are identified?,Informational,Logging,Status,Error,A
+"What is a cause, or potential cause, of one or more incidents?",Event,Problem,Know Error,Error,B
+What is a problem that has been analyzed but has not been resolved?,Unresolved issue,Known error,User error,Unresolved incidents,B
+What is a solution that reduces or eliminates the impact of an incident or problem for which a full resolution is not yet available?,Risk reduction,Workaround,Temporary solution,Provisional solution,B
+What should be defined by the organization for each of their products and services?,Value maps,Process maps,Process stream,Value stream,D
+"What is a version of a service or other configuration item, or a collection of configuration items, that is made available for use?",Event,Update,Fix,Release,D
+Which practice is done to make new and changed services and features available for use?,Problem management,Release management,Update management,Service update management,B
+"What in the service value chain is done to provide a good understanding of stakeholder needs, transparency, and continual engagement and good relationships with all stakeholders?",Improve,Engage,Design,Deliver and support,B
+What is any component that needs to be managed in order to deliver an IT service?,Configuration component,Configuration item,Configuration system,Technology Configuration,B
+Which ITIL guiding principle recommends using existing services and processes and tools while improving services?,Progress iteratively with feedback,Keep it simple and practical,Start where you are,Optimize and automate,C
+Which practice ensures that risks have been properly assessed?,Service configuration management,Continual Improvement,Incident management,Change enablement,D
+What represents the need or desire for products and services from internal and external customers?,Opportunity,Demand,Customer,Service,B
+"What includes identification of potential permanent solutions which may result in a change request for implementation of a solution, but only if this can be justified in terms of cost, risks, and benefits?",Error Control,User Control,Problem control,Fix Management,A
